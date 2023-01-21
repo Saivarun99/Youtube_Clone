@@ -11,11 +11,7 @@ DEMO LINK : https://ksvmedia.netlify.app/
 PREVIEW :
 
 
-<img width="1440" alt="Youtube_clone" src="https://user-images.githubusercontent.com/92424434/213858691-d99c4fad-9bc5-473f-beba-e72e4559f660.png">
-
-
-
-
+<img width="1440" alt="Youtube_Clone" src="https://user-images.githubusercontent.com/92424434/213858800-4af24174-6c7c-4ba1-9037-79d38b5d5812.png">
 
 
 
