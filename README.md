@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 DEMO AND PREVIEW :
 
 
-DEMO LINK : https://ksvmedia.netlify.app/
+DEMO LINK : 👉 https://ksvmedia.netlify.app/
 
 
 PREVIEW :
