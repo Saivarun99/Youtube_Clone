@@ -1,15 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),
 
 
-DEMO AND PREVIEW :
+DEMO AND PREVIEW:
 
 
 DEMO LINK : 👉 https://ksvmedia.netlify.app/
 
 
-PREVIEW :
+PREVIEW:
 
 
 <img width="1440" alt="Youtube_Clone" src="https://user-images.githubusercontent.com/92424434/213858800-4af24174-6c7c-4ba1-9037-79d38b5d5812.png">
